@@ -1,0 +1,7 @@
+Name: MyName
+
+Location: Bengaluru
+
+State: Karnataka
+
+Country: India
