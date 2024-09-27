@@ -1,5 +1,7 @@
 Name: MyName
 
+Pin Code: 560 001
+
 Location: Chennai
 
 State: Karnataka
